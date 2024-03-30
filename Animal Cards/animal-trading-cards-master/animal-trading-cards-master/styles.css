@@ -5,7 +5,7 @@ body {
 
 .card {
     border: 2px solid black;
-    width: 300px;
+    width: 400px;
     padding: 10px;
     margin: 20px;
     background: #eacda3;  /* fallback for old browsers */
@@ -17,8 +17,9 @@ body {
     width: fixed;
 }
 .card img {
-    width: 100%;
-    border-radius: 5px;
+    width: 300px;
+    height: 200px;
+    border-radius: 2px;
 }
 .card h3 {
     text-align: center;
