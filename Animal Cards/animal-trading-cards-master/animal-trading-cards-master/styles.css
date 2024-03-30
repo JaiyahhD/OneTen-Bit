@@ -1,4 +1,7 @@
-body 
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
 
 .card {
     border: 2px solid black;
